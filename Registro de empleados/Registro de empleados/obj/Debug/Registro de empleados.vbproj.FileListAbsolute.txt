@@ -1,0 +1,11 @@
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe.config
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\bin\Debug\employee.mdb
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.exe
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.pdb
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\bin\Debug\Registro de empleados.xml
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Form1.resources
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\obj\Debug\Registro_de_empleados.Resources.resources
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.vbproj.GenerateResource.Cache
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.exe
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.xml
+C:\Users\ANDREA\Documents\PROYECTOS\Registro de empleados\Registro de empleados\obj\Debug\Registro de empleados.pdb
